@@ -34,4 +34,6 @@
 ![Static Badge](https://img.shields.io/badge/notion-7aa2f7?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/figma-7aa2f7?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/postman-7aa2f7?style=for-the-badge&logo=postman&logoColor=ffffff)
+<br/>
+<br/>
 </div>
