@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&customColorList=12&text=반갑습니다%20박미현입니다&textBg=false&fontColor=FAF7F0&fontSize=40&reversal=true&descSize=30&descAlignY=69&fontAlignY=50&section=header)
-![](https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/parkmihyunn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/parkmihyunn/github-stats/master/generated/overview.svg#gh-light-mode-only)
