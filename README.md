@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-7aa2f7?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.js-7aa2f7?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/typescript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=ffffff)
-<br/>
+<br/><br/>
 ![Static Badge](https://img.shields.io/badge/React-7aa2f7?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Vue-7aa2f7?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Next-7aa2f7?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
