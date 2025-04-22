@@ -7,4 +7,7 @@
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/overview.svg" width="48.5%" />
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/languages.svg" width="48.5%" />
 
+<br/><br/>
+![Static Badge](https://img.shields.io/badge/JavaScript-7aa2f7?style=for-the-badge&logo=javascript&logoColor=ffffff)
+
 </div>
