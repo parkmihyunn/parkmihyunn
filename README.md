@@ -4,5 +4,5 @@
 <br/><br/>
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/overview.svg" width="48.5%" />
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/languages.svg" width="48.5%" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=parkmihyunn&theme=gruvbox&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parkmihyunn&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=1200&background=FFFFFF00&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
