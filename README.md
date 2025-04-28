@@ -1,11 +1,11 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=12&text=반갑습니다%20박미현입니다&textBg=false&fontColor=7aa2f7&fontSize=50&reversal=true&descSize=30&descAlignY=69&fontAlignY=50&section=header)
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/overview.svg" width="48.5%" />
 <img src="https://raw.githubusercontent.com/parkmihyunn/github-stats-transparent/ef3957ec2399584f4cfeb2e4e79ccc6c03878fd6/generated/languages.svg" width="48.5%" />
 
-<br/><br/>
+<br/><br/><br/><br/>
 ![Static Badge](https://img.shields.io/badge/HTML-7aa2f7?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/JavaScript-7aa2f7?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.js-7aa2f7?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
@@ -32,6 +32,6 @@
 ![Static Badge](https://img.shields.io/badge/notion-7aa2f7?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/figma-7aa2f7?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/postman-7aa2f7?style=for-the-badge&logo=postman&logoColor=ffffff)
-<br/>
+<br/><br/>
 <br/>
 </div>
